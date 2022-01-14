@@ -1,2 +1,3 @@
 # openapi-swagger-dark-theme
-Created with CodeSandbox
+
+Dark theme UI version for swagger Open API Documentation
